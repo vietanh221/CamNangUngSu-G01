@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Ứng Xử Nơi Công Cộng (G01)",
+  "description": "Cẩm nang tra cứu và tư vấn hành vi văn minh nên làm và không nên làm tại các không gian công cộng, giải quyết tình huống giao tiếp và tra cứu quy định pháp luật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
